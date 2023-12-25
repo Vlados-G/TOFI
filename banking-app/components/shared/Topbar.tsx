@@ -9,7 +9,7 @@ function Topbar() {
       <Link href="/" className="flex item-center gap-4">
         <Image src="/assets/bank.png" alt="logo" width={34} height={34} />
         <p className="text-heading3-bold text-light-1 max-xs:hidden">
-          ZiFinance
+          GoFinance
         </p>
       </Link>
       <div className="flex items-center gap-1">
